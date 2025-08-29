@@ -8,6 +8,7 @@
 - **Favorite programming language:** Swift
 - **Goal in coding:** Use technology to improve health and empower communities
 - **Fun fact:** I'm obsessed with Möbius Strip, Golden Ratio / Fibonacci Spiral, and Klein Bottle patterns because of the twisted art and the science behind them.
+![A530DF90-CCBF-4EA1-A624-E8843D31153A](https://github.com/user-attachments/assets/306f09e2-f0cc-416d-874c-47d38bc5d99d)
 
 
 
